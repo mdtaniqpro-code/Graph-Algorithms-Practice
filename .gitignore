@@ -1,0 +1,40 @@
+# Compiled source files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# CodeBlocks files
+*.layout
+*.depend
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Visual Studio
+*.vcxproj
+*.sln
+*.opensdf
+*.sdf
+*.cache
+*.pdb
